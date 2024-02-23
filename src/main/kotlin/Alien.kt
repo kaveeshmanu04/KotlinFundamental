@@ -5,5 +5,9 @@ class Alien {
     fun show(){
         println("Alien had: $skills")
     }
+    fun run(){
+        println("Alien is running...")
+
+    }
 
 }
